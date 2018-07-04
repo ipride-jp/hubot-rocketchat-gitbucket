@@ -1,6 +1,6 @@
 # hubot-rocketchat-gitbucket
 
-## Quick Install
+## Quick Start 
 ```
 git clone https://github.com/ipride-jp/hubot-rocketchat-gitbucket
 cd hubot-rocketchat-gitbucket
